@@ -19,3 +19,11 @@ docker-compose down --remove-orphans -v
 ```
 
 Removerá tudo que está definido no arquivo `docker-compose.yml`
+
+## Verificação
+
+Consegue-se verificar a aplicação pela URL:
+
+```
+http://localhost/up
+```
